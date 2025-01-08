@@ -18,7 +18,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("../assets/background.jpg");
+    background-image: url("../assets/sakura.png");
 }
 
 .container {
@@ -55,7 +55,7 @@ body {
 .img {
     height: 100%;
     width: 50%;
-    background-image: url("../assets/vagabond.jpg");
+    background-image: url("../assets/saber.jpeg");
     background-size: cover;
     background-position: center;
     border-radius: 1rem;
