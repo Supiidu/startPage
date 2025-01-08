@@ -168,10 +168,10 @@ input {
 }
 
 .link:nth-child(2):hover {
-    box-shadow: 0rem 0rem 4rem #1DB954;
+    box-shadow: 0rem 0rem 4rem #2fa4ed;
     transition: all ease-in-out 0.2s;
     .icon {
-        color: #1DB954;
+        color: #2fa4ed;
         transition: all ease-in-out 0.5s;
     }
 }
