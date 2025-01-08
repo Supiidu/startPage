@@ -19,6 +19,8 @@ body {
     align-items: center;
     justify-content: center;
     background-image: url("../assets/sakura.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .container {
